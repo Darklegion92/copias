@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"IdSiigo":{"$numberInt":"1"}},"name":"IdSiigo_1","background":true}],"uuid":"6326e9e8a4dc4ba5945a68fbd7f9fbd3","collectionName":"clientes"}
